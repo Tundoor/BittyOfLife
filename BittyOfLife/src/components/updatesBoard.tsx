@@ -1,11 +1,20 @@
-function updateBoard () {
+function UpdateBoard () {
     return(<>
         <div className="updateDiv">
-            <div className="aboutMe-div"></div>
-            <div className="socials-div"></div>
-            <div className="announcements-div"></div>
+            <div className="aboutMe-div">
+                <h1>About Me</h1>
+                <p>I have nothing to say...</p>
+            </div>
+            <div className="socials-div">
+                <h1>Socials</h1>
+                <p>I have nothing to say...</p>
+            </div>
+            <div className="announcements-div">
+                <h1>Announcements</h1>
+                <p>I have nothing to say...</p>
+            </div>
         </div>
     </>)
 }
 
-export default updateBoard
+export default UpdateBoard
