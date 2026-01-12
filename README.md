@@ -9,5 +9,5 @@ Ive always been afraid of putting myself out there because the iternet is just s
 
   ## Tech Stack
 
-This project uses React, Python, Django, CSS and postgreeSQL. 
+This project uses Angular, Java, SpringBoot, CSS and postgreeSQL. 
 
